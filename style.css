@@ -171,4 +171,13 @@ a {
 }
 
 @media screen and(max-width:350px) {
+  #hero img {
+    width: 60%;
+  }
+
+  #hero button {
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+}
 }
