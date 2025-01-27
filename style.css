@@ -139,7 +139,7 @@ a {
   }
 }
 
-@media screen and(max-width:768px) {
+@media screen and(max-width:1080px) {
   #hero img {
     width: 60%;
   }
